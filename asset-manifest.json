@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/portfolio_dark/static/js/main.7123b946.js",
+    "static/media/Social.png": "/portfolio_dark/static/media/Social.b83ca8db8bdd29494da6.png",
+    "static/media/PokerKing.png": "/portfolio_dark/static/media/PokerKing.51a96e0c28f00d14eb8a.png",
+    "static/media/Discover.png": "/portfolio_dark/static/media/Discover.f7c777529e6f66b20ec6.png",
+    "static/media/DTU.png": "/portfolio_dark/static/media/DTU.92144326fd3742322021.png",
+    "static/media/UTD.png": "/portfolio_dark/static/media/UTD.28822b19ddb8399dcb24.png",
+    "static/media/Cube.png": "/portfolio_dark/static/media/Cube.2c3ab09eb0c740b83502.png",
+    "index.html": "/portfolio_dark/index.html",
+    "main.7123b946.js.map": "/portfolio_dark/static/js/main.7123b946.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7123b946.js"
+  ]
+}
